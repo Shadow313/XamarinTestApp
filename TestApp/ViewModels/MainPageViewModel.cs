@@ -3,12 +3,24 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Net.Http;
 using System.Threading.Tasks;
+using TestApp.Models;
 using Xamarin.Forms;
 
 namespace TestApp.ViewModels
 {
-	public class MainPageViewModel : BaseViewModel
-    {
+	public class MainPageViewModel : BaseViewModel {
+		private long _listCreationTime;
+	    public long ListCreationTime {
+		    get { return _listCreationTime; } 
+		    set {
+			    if (value != _listCreationTime) {
+				    _listCreationTime = value;
+				    OnPropertyChanged();
+			    }
+			    
+		    }
+	    }
+	    public Command FillListCommand { get; private set; }
 	    public Command DownloadCommand { get; private set; }
 		private string _downloadStatus;
 		public string DownloadStatus { get { return _downloadStatus; } 
@@ -23,10 +35,10 @@ namespace TestApp.ViewModels
 	        DownloadCommand = new Command(async () => {
 		        await ExecuteDownloadCommand();});
 	        
+	        FillListCommand = new Command(ExecuteFillListCommand);
+	        
 	        Items = new ObservableCollection<ItemViewModel>();
-	        for (int i = 0; i < 10000; i++) {
-		        Items.Add(new ItemViewModel{Id = i, Name = "Item " +(i+1), Remark = "This is Item Nr " + (i+1)});
-	        }
+	        
         }
 
 	    private async Task ExecuteDownloadCommand() {
@@ -43,6 +55,17 @@ namespace TestApp.ViewModels
 			    DownloadStatus = "Complete after " + watch.ElapsedMilliseconds+" millis.";
 		    }
 		    
+	    }
+
+	    private void ExecuteFillListCommand() {
+		    Items.Clear();
+		    var watch = Stopwatch.StartNew();
+		    for (int i = 0; i < 10000; i++) {
+			    Items.Add(new ItemViewModel{Id = i, Name = "Item " +(i+1), Remark = "This is Item Nr " + (i+1)});
+		    }
+
+		    watch.Stop();
+		    ListCreationTime = watch.ElapsedMilliseconds;
 	    }
     }
 

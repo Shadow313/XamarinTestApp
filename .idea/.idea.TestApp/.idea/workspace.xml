@@ -2,95 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74c75162-b86c-42a9-a09e-3b6a582fa205" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestApp/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Assets/AboutAssets.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/MainActivity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Properties/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/AboutResources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/Resource.designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/drawable/xamarin_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/layout/Tabbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/layout/Toolbar.axml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-anydpi-v26/icon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-anydpi-v26/icon_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-hdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-hdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-mdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-mdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xxhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xxhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xxxhdpi/Icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/mipmap-xxxhdpi/launcher_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/Resources/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.Android/TestApp.Android.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/AppDelegate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Assets.xcassets/AppIcon.appiconset/Icon87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Entitlements.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/Default-568h@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/Default-Portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/Default-Portrait@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/Default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/Default@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_about@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_about@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_feed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_feed@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/tab_feed@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/xamarin_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/xamarin_logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/Resources/xamarin_logo@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.iOS/TestApp.iOS.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Models/Item.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Services/IDataStore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Services/MockDataStore.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/TestApp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/ViewModels/AboutViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/ViewModels/BaseViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/ViewModels/ItemDetailViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/ViewModels/ItemsViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/AboutPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/AboutPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/ItemDetailPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/ItemDetailPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/ItemsPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/ItemsPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/MainPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/MainPage.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/NewItemPage.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp/Views/NewItemPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPage.xaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainPage.xaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestApp/Views/MainPage.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="128" selection-start-line="23" selection-start-column="128" selection-end-line="23" selection-end-column="128" />
+            <state relative-caret-position="360">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
                 <marker date="1526996790836" expanded="true" signature="39:1388" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;        &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt;&#10;        &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt;&#10;        &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
                 <marker date="1526996790836" expanded="true" signature="307:1373" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt; &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt; &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;.../&gt;" />
@@ -153,24 +66,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPageViewModel.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainPageViewModel.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="1005">
+              <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
               <folding>
-                <marker date="1526996551924" expanded="true" signature="6:151" ph="..." />
-                <marker date="1526996551924" expanded="true" signature="181:1748" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="231:1594" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="361:473" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="411:471" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="590:940" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="652:696" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="810:930" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="991:1588" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="1354:1471" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="1471:1574" ph="{...}" />
-                <marker date="1526996551924" expanded="true" signature="1640:1746" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="6:173" ph="..." />
+                <marker date="1526998915999" expanded="true" signature="203:2346" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="254:2192" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="324:515" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="377:508" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="418:492" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="697:809" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="747:807" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="926:1198" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="988:1032" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="1249:1846" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="1612:1729" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="1729:1832" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="1891:2186" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="1992:2106" ph="{...}" />
+                <marker date="1526998915999" expanded="true" signature="2238:2344" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -179,10 +96,10 @@
       <file leaf-file-name="DrawPage.xaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestApp/Views/DrawPage.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <marker date="1526991899597" expanded="true" signature="39:269" ph="&lt;.../&gt;" />
+                <marker date="1526998477190" expanded="true" signature="39:206" ph="&lt;.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -203,11 +120,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml" />
         <option value="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml.cs" />
         <option value="$PROJECT_DIR$/TestApp/Views/MainPage.xaml.cs" />
-        <option value="$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs" />
         <option value="$PROJECT_DIR$/TestApp/Views/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/TestApp/Views/DrawPage.xaml" />
+        <option value="$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs" />
       </list>
     </option>
   </component>
@@ -321,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526986396259</updated>
-      <workItem from="1526986399592" duration="5606000" />
+      <workItem from="1526986399592" duration="8152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5606000" />
+    <option name="totallyTimeSpent" value="8152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,12 +267,12 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" weight="0.32914045" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39937106" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39937106" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -374,20 +291,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestApp/Views/DrawPage.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding>
-            <marker date="1526991899597" expanded="true" signature="39:269" ph="&lt;.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.Debugging.targets">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="478" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/Views/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <marker date="1526994083102" expanded="false" signature="6:115" ph="..." />
+            <marker date="1526994083102" expanded="true" signature="140:594" ph="{...}" />
+            <marker date="1526994083102" expanded="true" signature="238:592" ph="{...}" />
+            <marker date="1526994083102" expanded="true" signature="276:465" ph="{...}" />
+            <marker date="1526994083102" expanded="true" signature="534:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestApp/Views/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <marker date="1526996790836" expanded="true" signature="39:1388" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;        &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt;&#10;        &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt;&#10;        &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="307:1373" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt; &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt; &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="323:501" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot;/&gt; &lt;RowDefinition Height=&quot;Auto&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="511:653" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="992:1361" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="1127:1340" ph="&lt;&lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1526996790836" expanded="true" signature="1167:1303" ph="&lt;&lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;.../&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -407,53 +344,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestApp/Views/MainPage.xaml.cs">
+    <entry file="file://$PROJECT_DIR$/TestApp/Views/DrawPage.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <marker date="1526994083102" expanded="false" signature="6:115" ph="..." />
-            <marker date="1526994083102" expanded="true" signature="140:594" ph="{...}" />
-            <marker date="1526994083102" expanded="true" signature="238:592" ph="{...}" />
-            <marker date="1526994083102" expanded="true" signature="276:465" ph="{...}" />
-            <marker date="1526994083102" expanded="true" signature="534:586" ph="{...}" />
+            <marker date="1526998477190" expanded="true" signature="39:206" ph="&lt;.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestApp/ViewModels/MainPageViewModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="1005">
+          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
           <folding>
-            <marker date="1526996551924" expanded="true" signature="6:151" ph="..." />
-            <marker date="1526996551924" expanded="true" signature="181:1748" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="231:1594" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="361:473" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="411:471" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="590:940" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="652:696" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="810:930" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="991:1588" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="1354:1471" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="1471:1574" ph="{...}" />
-            <marker date="1526996551924" expanded="true" signature="1640:1746" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestApp/Views/MainPage.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="128" selection-start-line="23" selection-start-column="128" selection-end-line="23" selection-end-column="128" />
-          <folding>
-            <marker date="1526996790836" expanded="true" signature="39:1388" ph="&lt;&lt;Grid&gt;&#10;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;&#10;        &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt;&#10;        &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt;&#10;        &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt;&#10;        &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="307:1373" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot;/&gt;&#10;            &lt;RowDefinition Height=&quot;*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Button x:Name=&quot;btnGoToDraw&quot; Text=&quot;Go to Drawpage&quot; Grid.Row=&quot;0&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot;/&gt; &lt;Button x:Name=&quot;btnDownload&quot; Text=&quot;Download&quot; Command=&quot;{Binding DownloadCommand}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;0&quot;/&gt; &lt;Label x:Name=&quot;lblDownload&quot; Text=&quot;{Binding DownloadStatus}&quot; Grid.Row=&quot;1&quot; Grid.Column=&quot;1&quot;/&gt; &lt;ListView Grid.Row=&quot;2&quot; Grid.Column=&quot;0&quot; Grid.ColumnSpan=&quot;2&quot; ItemsSource=&quot;{Binding Items}&quot; CachingStrategy=&quot;RecycleElement&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;&#10;        &lt;/ListView&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="323:501" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot;/&gt; &lt;RowDefinition Height=&quot;Auto&quot;/&gt; &lt;RowDefinition Height=&quot;*&quot;/&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="511:653" ph="&lt;&lt;ColumnDefinition Width=&quot;*&quot;/&gt; &lt;ColumnDefinition Width=&quot;*&quot;/&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="992:1361" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="1127:1340" ph="&lt;&lt;DataTemplate&gt;&#10;                    &lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;&#10;                &lt;/DataTemplate&gt;.../&gt;" />
-            <marker date="1526996790836" expanded="true" signature="1167:1303" ph="&lt;&lt;TextCell Text=&quot;{Binding Name}&quot; Detail=&quot;{Binding Remark}&quot;&gt;&lt;/TextCell&gt;.../&gt;" />
+            <marker date="1526998915999" expanded="true" signature="6:173" ph="..." />
+            <marker date="1526998915999" expanded="true" signature="203:2346" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="254:2192" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="324:515" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="377:508" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="418:492" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="697:809" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="747:807" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="926:1198" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="988:1032" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="1249:1846" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="1612:1729" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="1729:1832" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="1891:2186" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="1992:2106" ph="{...}" />
+            <marker date="1526998915999" expanded="true" signature="2238:2344" ph="{...}" />
           </folding>
         </state>
       </provider>

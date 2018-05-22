@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:views="clr-namespace:TestApp.Views" 
+    x:Class="TestApp.Views.MainPage"
+    xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="btnGoToDraw" Text="Go to Drawpage" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnDownload" Text="Download" Command="{Binding DownloadCommand}" Grid.Row="1" Grid.Column="0"/>
+        <Label x:Name="lblDownload" Text="{Binding DownloadStatus}" Grid.Row="1" Grid.Column="1"/>
+        <ListView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" ItemsSource="{Binding Items}" CachingStrategy="RecycleElement">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding Remark}"></TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>>
+        </ListView>
+    </Grid>
+</ContentPage>

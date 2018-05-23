@@ -28,14 +28,19 @@ namespace TestApp.ViewModels
 				_downloadStatus = value;
 				OnPropertyChanged();
 			} }
-	    
-	    public ObservableCollection<ItemViewModel> Items { get; private set; }
+
+		private ObservableCollection<ItemViewModel> _items;
+	    public ObservableCollection<ItemViewModel> Items {
+		    get { return _items;}
+		    private set { _items = value; OnPropertyChanged(); } }
         public MainPageViewModel()
         {
 	        DownloadCommand = new Command(async () => {
 		        await ExecuteDownloadCommand();});
 	        
-	        FillListCommand = new Command(ExecuteFillListCommand);
+	        FillListCommand = new Command(async () => {
+		        await ExecuteFillListCommand();
+	        });
 	        
 	        Items = new ObservableCollection<ItemViewModel>();
 	        
@@ -57,15 +62,19 @@ namespace TestApp.ViewModels
 		    
 	    }
 
-	    private void ExecuteFillListCommand() {
-		    Items.Clear();
-		    var watch = Stopwatch.StartNew();
-		    for (int i = 0; i < 10000; i++) {
-			    Items.Add(new ItemViewModel{Id = i, Name = "Item " +(i+1), Remark = "This is Item Nr " + (i+1)});
-		    }
+	    private async Task ExecuteFillListCommand() {
+		    var list = new ObservableCollection<ItemViewModel>();
+		    await Task.Run(() => {
+			    var watch = Stopwatch.StartNew();
+			    for (int i = 0; i < 10000; i++) {
+				    list.Add(new ItemViewModel{Id = i, Name = "Item " +(i+1), Remark = "This is Item Nr " + (i+1)});
+			    }
 
-		    watch.Stop();
-		    ListCreationTime = watch.ElapsedMilliseconds;
+			    Items = list;
+			    watch.Stop();
+			    ListCreationTime = watch.ElapsedMilliseconds;
+		    }).ConfigureAwait(false);
+		    
 	    }
     }
 
